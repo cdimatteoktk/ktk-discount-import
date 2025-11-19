@@ -1,0 +1,5 @@
+Module has encountered error while trying to import Discount from CSV:
+
+{errorMessage}
+
+Site url: {site_url}

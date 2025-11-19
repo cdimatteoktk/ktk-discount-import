@@ -1,0 +1,36 @@
+# macOS noise
+.DS_Store
+
+# IDE/editor metadata
+.idea/
+.vscode/
+*.iml
+
+# Composer and PHP vendors
+/vendor/
+/ktk_discount_import/vendor/
+composer.phar
+
+# Environment overrides
+.env
+.env.local
+.env.*.local
+
+# Logs, caches and temp files
+*.log
+*.tmp
+*.cache
+*.swp
+*.swo
+*.bak
+
+# CSV inputs/exports generated during discount imports
+/*.csv
+/ktk_discount_import/log/*
+!ktk_discount_import/log/index.php
+
+# Distribution artefacts
+*.zip
+*.tar
+*.tar.gz
+*.tgz

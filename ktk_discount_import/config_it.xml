@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ktk_discount_import</name>
+    <displayName><![CDATA[Kotuko: CSV Discount Import]]></displayName>
+    <version><![CDATA[1.0.1]]></version>
+    <description><![CDATA[This module allow to bulk import discount for Main Shop (id 1) and MiniShop using a CSV. It must be activated calling the exposed API that can also be scheduled with a cronjob. Path of the file must be set in configuration.]]></description>
+    <author><![CDATA[Kotuko]]></author>
+    <tab><![CDATA[quick_bulk_update]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall the module?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,24 @@
+{
+  "name": "kotuko/ktk_discount_import",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "type": "prestashop-module",
+  "authors": [
+    {
+      "name": "Kotuko",
+      "email": "noreply@kotuko.it"
+  }
+  ],
+  "autoload": {
+    "psr-4": {
+      "ktkdi\\": "classes/"
+    },
+    "classmap": [
+      "classes/"
+    ],
+    "exclude-from-classmap": []
+  },
+  "require": {
+  }
+} 

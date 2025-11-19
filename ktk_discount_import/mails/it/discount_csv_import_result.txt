@@ -1,0 +1,7 @@
+CSV Discount Import Result for {executionId}
+
+OK --> {ok}
+KO --> {ko}
+TOTAL --> {total}
+
+Site url: {site_url}

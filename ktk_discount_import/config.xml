@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>ktk_discount_import</name>
+	<displayName><![CDATA[Kotuko: CSV Discount Import]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[This module allow to bulk import via CSV discount. It also allow to schedule a cronjob to retrieve the file from a specific path and start the import Job.]]></description>
+	<author><![CDATA[Kotuko]]></author>
+	<tab><![CDATA[quick_bulk_update]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
